@@ -2,6 +2,9 @@ Dynamic Cards Flutter App
 
 This project is a Flutter assignment submission that demonstrates rendering dynamic card layouts using API-driven data. The app fetches UI configurations from an API and builds reusable card widgets accordingly.
 
+<img width="452" height="797" alt="Screenshot 2025-09-02 at 12 18 23 AM" src="https://github.com/user-attachments/assets/78438ad9-0510-4ba0-aa35-9f061700f93e" />
+<img width="417" height="802" alt="Screenshot 2025-09-02 at 12 18 37 AM" src="https://github.com/user-attachments/assets/b454d4b7-636b-4720-9481-1f7b17db37ce" />
+
 🚀 Features
 
 Fetches card layout data from remote API (JSON-based)
